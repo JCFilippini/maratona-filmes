@@ -13,5 +13,8 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
+- [ ] Harry Potter: E o Calice de fogo
+- [ ] Percy Jackson e o Ladrão de Raios
 - [ ] Capitão América
 - [ ] Loki
+
